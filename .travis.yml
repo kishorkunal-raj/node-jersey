@@ -1,4 +1,8 @@
 language: node_js
+arch:
+  - amd64
+  - ppc64le
+
 node_js:
-  - 0.6
+  - 14
 #  - 0.7 # development version of 0.8, may be unstable
